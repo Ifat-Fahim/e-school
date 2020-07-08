@@ -1,3 +1,22 @@
+/* General Styles */
+
+body {
+    color: gray;
+    font-family: "Roboto", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: #000;
+}
+
+footer h5 {
+    color: #fff;
+}
+
 .container {
     margin-bottom: 60px;
 }
