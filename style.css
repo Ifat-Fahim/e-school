@@ -1,0 +1,28 @@
+.container {
+    margin-bottom: 60px;
+}
+
+/* Basic Navigation styles */
+
+.btn-success {
+    background: #21b573;
+    border-radius: 33px;
+    color: #fff !important;
+    display: inline-block;
+    padding: 8px 20px !important;
+}
+
+.navbar-light .navbar-nav li {
+    padding-left: 10px;
+}
+
+/* Basic typography*/
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.text-green {
+    color: #21b573;
+}
