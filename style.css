@@ -2,6 +2,10 @@
     margin-bottom: 60px;
 }
 
+.push-down {
+    margin-top: 100px;
+}
+
 /* Basic Navigation styles */
 
 .btn-success {
@@ -16,13 +20,44 @@
     padding-left: 10px;
 }
 
-/* Basic typography*/
+/* Basic typography and colors*/
 
 h1 {
     font-size: 40px;
     font-weight: 700;
 }
 
+h5,
+.title {
+    font-weight: 700;
+}
+
 .text-green {
     color: #21b573;
+}
+
+.bg-dark {
+    background: #282531 !important;
+}
+
+/* Course section Button style  */
+
+.buy {
+    padding: 4px 25px !important;
+}
+
+.tiny {
+    font-size: 12px;
+}
+
+.fixed {
+    width: 300px;
+}
+
+/* Blog section basic style  */
+
+.center {
+    width: 70%;
+    max-width: 700px;
+    margin: 0 auto;
 }
